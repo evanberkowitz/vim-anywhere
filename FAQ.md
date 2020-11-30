@@ -1,5 +1,7 @@
 ## Text doesn't automatically paste after I close vim
 
+** The version in the master repository cknadler/vim-anywhere does not automatically paste, but this one does; cloning from this repo is opting in to my preference**
+
 This is by design currently. The readme has a blurb about this at the top.
 
 ```
